@@ -9,6 +9,31 @@ Identified North America as the top performing continent ($9.4M net
 sales) and Bikes as the highest profit category ($9.7M). Segmented 
 18K+ customers into 10 RFM groups revealing 3.34K disengaged and 
 1.71K champion customers to support targeted marketing decisions.
+
+---
+
+## Tools & Technologies
+- **Power BI** — Dashboard & Visualizations
+- **Power Query** — Data Cleaning & Transformation
+- **DAX** — Measures & Calculated Columns
+- **Snowflake Schema** — Data Modeling
+
+---
+
+## Dataset
+Source: AdventureWorks Sample Dataset
+
+| File | Description |
+|------|-------------|
+| AdventureWorks Sales Data 2020-2022.csv | Sales data  |
+| AdventureWorks Territory Lookup.csv | Sales territory and region information |
+| AdventureWorks Customer Lookup.csv | Customer demographic and profile data |
+| AdventureWorks Product Categories Lookup.csv |product category classifications |
+| AdventureWorks Product Lookup.csv | Full product details including price and SKU |
+| AdventureWorks Product Subcategories Lookup.csv | Product subcategory breakdown |
+| AdventureWorks Returns Data.csv | Returned orders |
+
+---
 ## Dashboard Preview
 
 ### Executive Summary
