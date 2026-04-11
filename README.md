@@ -1,5 +1,14 @@
 # E-Commerce-Sales-Data-Analysis
-
+Analyzed 56K+ sales records, 25,164 orders, $24.91M revenue and 
+$10.46M profit across 3 continents using AdventureWorks dataset. 
+Faced performance issues handling large complex data — resolved by 
+implementing Snowflake Schema which significantly improved model 
+efficiency and query speed. Built DAX measures for Net Sales ($24M), 
+Profit Margin (42%), Return Rate (2.17%) and YoY/MoM growth trends. 
+Identified North America as the top performing continent ($9.4M net 
+sales) and Bikes as the highest profit category ($9.7M). Segmented 
+18K+ customers into 10 RFM groups revealing 3.34K disengaged and 
+1.71K champion customers to support targeted marketing decisions.
 ## Dashboard Preview
 
 ### Executive Summary
